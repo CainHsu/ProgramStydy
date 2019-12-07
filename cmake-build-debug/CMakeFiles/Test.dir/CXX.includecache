@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/xuche/CLionProjects/Test/ListNode.hpp
+iostream
+C:/Users/xuche/CLionProjects/Test/iostream
+string.h
+C:/Users/xuche/CLionProjects/Test/string.h
+
+C:/Users/xuche/CLionProjects/Test/main.cpp
+iostream
+-
+ListNode.hpp
+C:/Users/xuche/CLionProjects/Test/ListNode.hpp
+vector
+C:/Users/xuche/CLionProjects/Test/vector
+cmath
+C:/Users/xuche/CLionProjects/Test/cmath
+algorithm
+C:/Users/xuche/CLionProjects/Test/algorithm
+stack.hpp
+C:/Users/xuche/CLionProjects/Test/stack.hpp
+stack
+C:/Users/xuche/CLionProjects/Test/stack
+string
+C:/Users/xuche/CLionProjects/Test/string
+
+C:/Users/xuche/CLionProjects/Test/stack.hpp
+string
+C:/Users/xuche/CLionProjects/Test/string
+stack
+C:/Users/xuche/CLionProjects/Test/stack
+
