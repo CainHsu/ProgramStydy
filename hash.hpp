@@ -7,9 +7,11 @@
 
 #include <unordered_set>
 #include <unordered_map>
+#include <iostream>
 #include "vector"
 #include "string"
 
+using namespace std;
 
 void showVector(std::vector<int> &temp){
     std::cout << temp[0];
